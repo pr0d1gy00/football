@@ -1,0 +1,320 @@
+[
+  {
+    "time": "15:00",
+    "home": "Olympique Medea",
+    "away": "GC Mascara",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "13:00",
+    "home": "Van",
+    "away": "Ararat-Armenia",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "13:00",
+    "home": "West Armenia",
+    "away": "Pyunik Yerevan",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "16:15",
+    "home": "Dinamo Minsk",
+    "away": "FC Vitebsk",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "18:30",
+    "home": "Neman",
+    "away": "Shakhter Soligorsk",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "00:00",
+    "home": "America RN",
+    "away": "Corinthians",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "01:30",
+    "home": "Flamengo",
+    "away": "Amazonas",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "01:30",
+    "home": "Internacional",
+    "away": "Juventude",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "23:00",
+    "home": "Botafogo",
+    "away": "Vitoria",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "23:30",
+    "home": "Aguia de Maraba",
+    "away": "Sao Paulo",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "00:00",
+    "home": "Atlético Ottawa",
+    "away": "Valour",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "00:00",
+    "home": "Forge",
+    "away": "York United",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "21:00",
+    "home": "Leones FC",
+    "away": "Union Magdalena",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "21:30",
+    "home": "Popayan",
+    "away": "Quindio",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "21:30",
+    "home": "Real Santander",
+    "away": "Cucuta",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "21:30",
+    "home": "Barranquilla",
+    "away": "Real Cartagena",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "22:00",
+    "home": "Huila",
+    "away": "Orsomarso",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "00:00",
+    "home": "Moca",
+    "away": "Atlético Pantoja",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "00:00",
+    "home": "Cibao",
+    "away": "Universidad OM",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "21:00",
+    "home": "9 de Octubre",
+    "away": "UT Cotopaxi",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Future FC",
+    "away": "El Geish",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Zamalek SC",
+    "away": "National Bank of Egypt",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "01:00",
+    "home": "Alianza",
+    "away": "FAS",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "19:30",
+    "home": "Chelsea",
+    "away": "Tottenham",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Telavi",
+    "away": "Dila",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "18:00",
+    "home": "Torpedo Kutaisi",
+    "away": "Dinamo Tbilisi",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "02:00",
+    "home": "Real Espana",
+    "away": "CD Olimpia",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Maccabi Herzliya",
+    "away": "Hapoel Ramat HaSharon",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "16:00",
+    "home": "Al Jalil",
+    "away": "Al Faisaly",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "18:45",
+    "home": "Al Wihdat",
+    "away": "Al Salt",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "15:35",
+    "home": "Al Salmiyah",
+    "away": "Al Fahaheel",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "18:20",
+    "home": "Al Arabi",
+    "away": "Al Kuwait",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "16:00",
+    "home": "Tukums",
+    "away": "FK Liepaja",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Riga",
+    "away": "Grobiņa",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "16:00",
+    "home": "TransINVEST Vilnius",
+    "away": "Kauno Žalgiris",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "16:00",
+    "home": "Džiugas Telšiai",
+    "away": "Dainava",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Panevėžys",
+    "away": "Suduva Marijampole",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "16:00",
+    "home": "Babrungas",
+    "away": "Tauras",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "00:00",
+    "home": "Inter Playa del Carmen",
+    "away": "CDS Tampico Madero",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "15:00",
+    "home": "CS Mioveni",
+    "away": "Csikszereda",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "15:00",
+    "home": "Radnicki 1923",
+    "away": "Mladost Lucani",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "16:00",
+    "home": "FK Partizan",
+    "away": "Vojvodina",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "17:30",
+    "home": "Cukaricki",
+    "away": "Napredak",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "18:00",
+    "home": "FK Crvena Zvezda",
+    "away": "TSC Backa Topola",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Dubočica",
+    "away": "Mladost Novi Sad",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "17:00",
+    "home": "Metalac GM",
+    "away": "Sloboda Uzice",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "18:30",
+    "home": "Kaizer Chiefs",
+    "away": "Mamelodi Sundowns",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "18:00",
+    "home": "Varbergs GIF",
+    "away": "Landvetter IS",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "20:00",
+    "home": "Aston Villa",
+    "away": "Olympiakos",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "20:00",
+    "home": "Fiorentina",
+    "away": "Club Brugge",
+    "prediction": "Menos de 3.5 goles"
+  },
+  {
+    "time": "20:00",
+    "home": "Roma",
+    "away": "Bayer Leverkusen",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "20:00",
+    "home": "Marseille",
+    "away": "Atalanta",
+    "prediction": "Más de 1.5 goles"
+  },
+  {
+    "time": "00:30",
+    "home": "Angostura FC",
+    "away": "Carabobo FC",
+    "prediction": "Menos de 3.5 goles"
+  }
+]
